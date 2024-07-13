@@ -94,7 +94,7 @@
 
 **Published in:** 2015 Conference of the Association for the Advancement of Artificial Intelligence
 
-#### SymReg: A Low Latency Interconnection Topology for HPC Clusters
+#### SymSig: A Low Latency Interconnection Topology for HPC Clusters
 
 **Authors:** D. Brahme, O. Bhardwaj, V. Chaudhary  
 
