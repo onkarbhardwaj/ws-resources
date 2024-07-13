@@ -16,7 +16,7 @@
 
 **Published in:** 2022 IJCAI
 
-#### Akamai qinds: Providing Authoritative Answers to the World's Queries
+#### Akamai DNS: Providing Authoritative Answers to the World's Queries
 
 **Authors:** K. Schomp, O. Bhardwaj, E. Kurdoglu, M. Muhamen, RK Sitaraman  
 
